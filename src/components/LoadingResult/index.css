@@ -1,0 +1,11 @@
+.loader-container {
+  color: black;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.custom-loader {
+  color: black;
+  background-color: black;
+}
